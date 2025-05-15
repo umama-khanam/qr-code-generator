@@ -25,7 +25,7 @@ Through this project, I explored and understood:
 | npm         | Package management               |
 | `qrcode`    | NPM package to generate QR codes |
 | `fs`        | Built-in module for file handling
-| `inquirer`  | MPM package for asking anything  |
+| `inquirer`  | NPM package for asking questions  |
 ---
 
 ## 🚀 How to Run This Project
